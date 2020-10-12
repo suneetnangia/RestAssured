@@ -7,3 +7,4 @@ This repository attempts to accelerate the following key concepts of APIs-
 3. Extensible to use durable storage for status management?
 4. Enforce idempotency and retry from clients.
 5. SxS multi-version support.
+6. Application exit management with health probe.
